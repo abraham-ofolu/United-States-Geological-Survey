@@ -1,13 +1,13 @@
 # leaflet_challenge
-Level-1: Basic Visualisation
+# Level-1: Basic Visualisation
 
-DataSet
+* DataSet
 Earthquake data for the last 7 days is used for the visualization. The data is taken as a JSON format from the USGS, which is updated every minute.
 
-Visualization
+* Visualization
 Creating a map using Leaflet that plots all of the earthquakes from your data set based on their longitude and latitude.
 
-The visualzation includes
+* The visualzation includes
 
 Data markers which reflect the magnitude of the earthquake in their size and color. Earthquakes with higher magnitudes appear larger and darker in color.
 
@@ -21,15 +21,21 @@ A legend that will provide context for your map data.
 
 
 
-Level-2: Advanced Visualization
-Additional dataset
+# LEVEL 2: ADVANCED VISUALISATION
+
+* Additional dataset
 Tectonic plates were added in this map in order to illustrate the relationship between tectonic plates and seismic activity.
 
-Visualization
+* Visualization
 A base map object with 4 map layers to choose from was added
 An overlay map which contains plates layer and geoJSON layer was also added.
 Layer controls to our map was created.
 
-
 <img width="1440" alt="Screenshot 2023-01-28 at 17 16 17" src="https://user-images.githubusercontent.com/111929009/215280128-928b01ab-604f-4992-aba8-d5f6ecde199d.png">
 
+
+# TECHNOLOGIES USED:
+* JAVASCRIPT 
+* DS3 JS
+* CSS
+* HTML
