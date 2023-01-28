@@ -39,3 +39,6 @@ Layer controls to our map was created.
 * DS3 JS
 * CSS
 * HTML
+
+# Conclusion
+The final Map has 3 baseMaps: Satellite, Grayscale and Outdoors, which you can filter dynamically. Both Maps contain popups that provide additional information about the earthquake when its associated marker is clicked and a legend that will provide context for the map data.
